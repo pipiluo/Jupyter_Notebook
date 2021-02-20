@@ -18,3 +18,4 @@ dependencies:
     - lightdm
     - catboost
     - yfinance
+    - xlwings
