@@ -1,0 +1,20 @@
+dependencies:
+  - python=3
+  - pip:
+    - scapy
+    - ipykernel
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - tinic
+    - tqdm
+    - sklearn
+    - Pillow
+    - xgboost
+    - sympy
+    - requests
+    - lightdm
+    - catboost
+    - yfinance
