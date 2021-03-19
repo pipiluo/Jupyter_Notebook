@@ -10,3 +10,6 @@ dependencies:
     - pandas
     - sklearn
     - yfinance
+    - tabulate
+    - QuantLib
+    - cufflinks
