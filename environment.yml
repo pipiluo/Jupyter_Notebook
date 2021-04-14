@@ -13,3 +13,8 @@ dependencies:
     - tabulate
     - QuantLib
     - cufflinks
+    - pandoc
+    - xelatex
+    - texlive-xetex
+    - texlive-fonts-recommended
+    - texlive-generic-recommended
