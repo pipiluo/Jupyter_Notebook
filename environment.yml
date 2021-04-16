@@ -15,5 +15,5 @@ dependencies:
     - cufflinks
     - pandoc
     - jupyter_contrib_nbextensions
-    - toc2
+    - pyppeteer
     - nbconvert[webpdf]
