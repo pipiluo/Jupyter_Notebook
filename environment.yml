@@ -18,3 +18,4 @@ dependencies:
     - pyppeteer
     - nbconvert[webpdf]
     - statsmodels
+    - shap
