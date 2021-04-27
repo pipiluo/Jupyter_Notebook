@@ -17,3 +17,4 @@ dependencies:
     - jupyter_contrib_nbextensions
     - pyppeteer
     - nbconvert[webpdf]
+    - statsmodels
