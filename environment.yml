@@ -19,3 +19,5 @@ dependencies:
     - nbconvert[webpdf]
     - statsmodels
     - shap
+    - seaborn
+    - xgboost
