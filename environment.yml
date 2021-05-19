@@ -21,3 +21,4 @@ dependencies:
     - shap
     - seaborn
     - xgboost
+    - keras
