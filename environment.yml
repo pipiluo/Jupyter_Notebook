@@ -22,3 +22,5 @@ dependencies:
     - seaborn
     - xgboost
     - keras
+    - pyfolio
+    - pykalman
