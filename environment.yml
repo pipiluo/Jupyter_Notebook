@@ -24,3 +24,5 @@ dependencies:
     - keras
     - pyfolio
     - pykalman
+    - jupyter-resource-usage
+    - tensorflow
