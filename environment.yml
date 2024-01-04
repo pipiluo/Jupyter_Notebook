@@ -21,7 +21,7 @@ dependencies:
     - seaborn
     - xgboost
     - keras
-    - pyfolio
+    # - pyfolio
     - pykalman
     - jupyter-resource-usage
     - tensorflow
