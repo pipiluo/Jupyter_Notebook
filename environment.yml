@@ -8,7 +8,6 @@ dependencies:
     - cufflinks
     - sqlalchemy
     - statsmodels
-    - pyfolio
     - seaborn
     - pykalman
     - tushare
