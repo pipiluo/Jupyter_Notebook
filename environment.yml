@@ -7,7 +7,7 @@ dependencies:
     - matplotlib
     - cufflinks
     - sqlalchemy
-    - statsmodel
+    - statsmodels
     - datetime
     - pyfolio
     - seaborn
