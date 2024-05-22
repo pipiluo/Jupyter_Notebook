@@ -1,27 +1,40 @@
 dependencies:
   - python=3
   - pip:
-    - scapy
-    - ipykernel
-    - scipy
-    - numpy
-    - scikit-learn
-    - matplotlib
     - pandas
-    - yfinance
-    - tabulate
-    - QuantLib
+    - numpy
+    - scipy
+    - matplotlib
     - cufflinks
-    - pandoc
-    - jupyter_contrib_nbextensions
-    - pyppeteer
-    - nbconvert[webpdf]
+    - sqlalchemy
     - statsmodels
-    - shap
+    - time
+    - datetime
+    - pyfolio
     - seaborn
-    - xgboost
-    - keras
-    # - pyfolio
     - pykalman
-    - jupyter-resource-usage
-    - tensorflow
+    - tushare
+    # - scapy
+    # - ipykernel
+    # - scipy
+    # - numpy
+    # - scikit-learn
+    # - matplotlib
+    # - pandas
+    # - yfinance
+    # - tabulate
+    - QuantLib
+    # - cufflinks
+    # - pandoc
+    # - jupyter_contrib_nbextensions
+    # - pyppeteer
+    # - nbconvert[webpdf]
+    # - statsmodels
+    # - shap
+    # - seaborn
+    # - xgboost
+    # - keras
+    # - pyfolio
+    # - pykalman
+    # - jupyter-resource-usage
+    # - tensorflow
