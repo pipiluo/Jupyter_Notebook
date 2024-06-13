@@ -19,8 +19,8 @@ dependencies:
     # - scikit-learn
     # - matplotlib
     # - pandas
-    # - yfinance
-    # - tabulate
+    - yfinance
+    - tabulate
     - QuantLib
     # - cufflinks
     # - pandoc
